@@ -30,7 +30,7 @@ Quando("eu entro na janela e verifico a mensagem") do
   #  expect(@mensagem.text).to eq 'Você Abriu uma nova janela!!'
  
   #  windows.last.close
- end
+#  end
  
  Quando("eu entro no alert e verifico faco a acao") do
    
